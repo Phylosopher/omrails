@@ -3,4 +3,6 @@
 This is the sample application for
 [*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
 
+Another line just for fun
+
 by [Mattan Griffel](http://mattangriffel.com)
